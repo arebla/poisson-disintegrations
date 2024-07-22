@@ -34,7 +34,7 @@ After compilation, you can run the programs to simulate the decay processes. See
      ```bash
      ./branched_decay <N_0> <N_P0> <N_A0> <N_B0> <lambda_A> <lambda_B> <deltaj> <M>
      ```
-Where `<N_0>` is the total number of nuclei (integer), `<N_P0>` is the initial number of parent nuclei (integer), `<N_A0>` is the initial number of A nuclei (integer), `<N_B0>` is the initial number of B nuclei (integer), `<lambda_A>` is the decay constant of A nuclei (float), `<lambda_B>` is the decay constant of B nuclei (float), `<deltaj>` is the time step for recording data (integer), and `<M>` is the number of iterations (integer).
+    Where `<N_0>` is the total number of nuclei (integer), `<N_P0>` is the initial number of parent nuclei (integer), `<N_A0>` is the initial number of A nuclei (integer), `<N_B0>` is the initial number of B nuclei (integer), `<lambda_A>` is the decay constant of A nuclei (float), `<lambda_B>` is the decay constant of B nuclei (float), `<deltaj>` is the time step for recording data (integer), and `<M>` is the number of iterations (integer).
 
 
 ## Acknowledgements
