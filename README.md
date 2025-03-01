@@ -38,4 +38,4 @@ After compilation, you can run the programs to simulate the decay processes. See
 
 
 ## Acknowledgements
-This project was developed as part of the course _Física Computacional I_ (61041094) from the Bachelor's degree in Physics at UNED.
+This project was developed as part of the course _Física Computacional I_ (61041094) from the Bachelor's degree in Physics at UNED during the 2020-2021 academic year.
