@@ -1,6 +1,5 @@
 # Poisson Processes and Radioactive Decay
 Radioactive decay is a fundamentally random process that continuously occurs in nature. Given that it meets certain conditions, it is possible to use random variables with a Poisson distribution to model the process. 
-
 This project aims to program functions that computationally simulate various Poisson processes for radioactive disintegration. It features three C programs, each modeling a different type of radioactive decay process: 
 
 * Simple Decay: Models the radioactive decay of radionuclides of the same species.
