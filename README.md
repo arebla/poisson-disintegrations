@@ -6,6 +6,8 @@ This project aims to program functions that computationally simulate various Poi
 * Decay Chain: Simulates a decay process where a radionuclide decays into a daughter nucleus, which then decays into a stable end product.
 * Branched Decay: Represents a decay process where a parent nucleus decays into two possible stable products (A or B).
 
+<img width="3900" height="1200" alt="plot-decay-processes" src="https://github.com/user-attachments/assets/f659a870-7902-4402-a7bb-6363aa71a4ca" />
+
 For detailed implementation and theoretical background, check out the documentation in the `docs` directory (available in Spanish).
 
 ## Programs
